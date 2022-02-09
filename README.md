@@ -1,6 +1,6 @@
 # Calculadora
 
-Foi desenvolvida uma calculadora.
+Foi desenvolvido um layout de calculadora.
 
 ## Tecnologias utilizadas
 - HTML
